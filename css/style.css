@@ -1,0 +1,74 @@
+
+#heading{
+    background-color: black;
+    color: green;
+}
+
+.even{
+    background-color: rgb(82, 181, 82);
+    color: white;
+}
+
+#heading2{
+    background-color: aqua;
+    color: black;
+}
+
+.btn-login{
+    background-color: rgb(95, 95, 129);
+    padding: 10px;
+    color: rgb(176, 54, 54);
+    font-size: xx-large;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.btn-login:hover{
+    background-color: rgb(14, 14, 120);
+}
+
+.btn-login:active{
+    background-color: rgb(202, 130, 130);
+    border: 1px solid black;
+}
+
+.odd{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    /* padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px; */
+    margin: 50px;
+
+    /* margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px; */
+
+
+}
+
+body{
+
+    background-color: turquoise;
+    
+}
+body{
+background-image: url("https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg");
+background-size: cover;
+background-attachment: fixed;
+}
+.box{
+    position: relative;
+    left: 20px;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: aquamarine;
+}
